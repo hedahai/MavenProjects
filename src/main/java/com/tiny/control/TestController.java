@@ -2,7 +2,6 @@ package com.tiny.control;
 
 import com.tiny.model.TestModel;
 import com.tiny.service.TestService;
-import com.tiny.service.impl.TestServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
